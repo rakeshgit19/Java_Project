@@ -7,7 +7,7 @@ public class Rakesh
 	{
 		int x=10;
 		int y=20;
-		int z;
+		int z;;;
 		System.out.println(z=x+y);;
 		
 		
